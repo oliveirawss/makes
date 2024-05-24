@@ -1,0 +1,6 @@
+{
+  "maquiagens": [
+    { "id": 1, "titulo": "beneficios", "seria": "A maquiagem melhora a aparência, aumenta a confiança e a autoestima ao destacar traços e disfarçar imperfeições. Ela permite a expressão pessoal, protege a pele dos raios UV e poluentes, e disfarça cicatrizes e manchas. Em ocasiões especiais e ambientes profissionais, proporciona uma aparência impecável e transmite profissionalismo."},
+    { "id": 2, "titulo": "riscos", "seria": "Embora a maquiagem ofereça benefícios, também apresenta riscos. Ingredientes como fragrâncias e conservantes podem causar irritações e alergias. O uso excessivo ou inadequado pode obstruir poros e causar acne. Produtos vencidos ou contaminados podem levar a infecções, como conjuntivite, especialmente na área dos olhos. Maquiagem compartilhada pode transmitir bactérias e vírus. A remoção inadequada pode causar danos à pele, como ressecamento e irritação."}
+  ]
+}
